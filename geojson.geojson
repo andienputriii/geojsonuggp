@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "geojson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32749" } },
+"features": [
+{ "type": "Feature", "properties": { "x": 115.3953705, "y": -8.2524815 }, "geometry": { "type": "Point", "coordinates": [ 115.3953705, -8.2524815 ] } },
+{ "type": "Feature", "properties": { "x": 110.5473959, "y": -7.9880148 }, "geometry": { "type": "Point", "coordinates": [ 110.5473959, -7.9880148 ] } },
+{ "type": "Feature", "properties": { "x": 115.9458549, "y": -8.5334313 }, "geometry": { "type": "Point", "coordinates": [ 115.9458549, -8.5334313 ] } },
+{ "type": "Feature", "properties": { "x": 106.3303042, "y": -7.1047668 }, "geometry": { "type": "Point", "coordinates": [ 106.3303042, -7.1047668 ] } },
+{ "type": "Feature", "properties": { "x": 98.3978503, "y": 2.571262 }, "geometry": { "type": "Point", "coordinates": [ 98.3978503, 2.571262 ] } },
+{ "type": "Feature", "properties": { "x": 107.6243724, "y": -2.7397888 }, "geometry": { "type": "Point", "coordinates": [ 107.6243724, -2.7397888 ] } },
+{ "type": "Feature", "properties": { "x": 114.0541247, "y": -8.13785 }, "geometry": { "type": "Point", "coordinates": [ 114.0541247, -8.13785 ] } },
+{ "type": "Feature", "properties": { "x": 119.5790299, "y": -4.9921203 }, "geometry": { "type": "Point", "coordinates": [ 119.5790299, -4.9921203 ] } },
+{ "type": "Feature", "properties": { "x": 101.8874061, "y": -2.1732124 }, "geometry": { "type": "Point", "coordinates": [ 101.8874061, -2.1732124 ] } },
+{ "type": "Feature", "properties": { "x": 129.0019812, "y": -0.9757914 }, "geometry": { "type": "Point", "coordinates": [ 129.001981199999989, -0.9757914 ] } }
+]
+}
